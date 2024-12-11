@@ -1,0 +1,19 @@
+{
+    "keyword": "IMG_2827",
+    "bg_image_path": "/Users/gauranshurathee/Desktop/shadow_positioning/test_data/png_raw_images_dataset/soft_shadow/KEYWORD.png",
+    "model_path": "/Users/gauranshurathee/Desktop/shadow_positioning/test_data/dec6_improved/gauranshu.obj",
+    "hdri_path": "/Users/gauranshurathee/Desktop/shadow_positioning/test_data/nov26/hdri/KEYWORD.exr",
+    "output_render_path": "/Users/gauranshurathee/Desktop/shadow_positioning/results/dec6_new_data/KEYWORDgauranshu_best.png",
+    "camera_position": [0, 0, 0],
+    "camera_rotation": [90, 0, 0],
+    "camera_lens": 45,
+    "person_position": [0.80, 7.75, -0.251],
+    "person_scale": 1.87,
+    "person_rotation": [93, 0, 0],
+    "plane_position_offset": -1.73,
+    "sun_rotation": [40, 0, -135],
+    "sun_energy": 15,
+    "max_dimension": 1500,
+    "render_samples": 420
+    
+}

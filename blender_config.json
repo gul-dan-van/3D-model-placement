@@ -1,0 +1,30 @@
+{
+    "keyword": "image10",
+    "output_path": "KEYWORD_delighted",
+    "gen_model_path": "/Users/gauranshurathee/Desktop/shadow_positioning/test_data/nov26/obj/delighted.obj",
+    
+    "person_scale": [1, 1, 1],
+    "person_location": [0.000000001, 5, 0],
+    "person_rotation": [90, 0, 2.5],
+
+    "plane_size": 70,
+    "plane_location_z": [0, 0, -0.9],
+
+    "light_energy": 5,
+    "light_rotation": [20, 0, 140],
+    "light_location": [0, 11.5, 0],
+    
+    "camera_location": [0, 0, 0.6],
+    "camera_rotation": [83, 0, 0],
+    "camera_lens": 35,
+    "camera_clip_start": 0.1,
+    "camera_end": 1000,
+
+    "background": {
+      "image_path": "white_bg.png",
+      "resolution": 1000
+    },
+
+    "cycle_samples": 20
+  }
+  
